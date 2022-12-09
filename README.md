@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarit
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning how to analyze different forms of Data, and how to process/manipulate them
-- 💞️ I’m looking for any Jobs or openings  
+- 💞️ I’m looking for any positions related in the Data Analysis / Machine Learning  field  
 - 📫 How to reach me through my email at smukhopa.99@gmail.com
 
 <!---
